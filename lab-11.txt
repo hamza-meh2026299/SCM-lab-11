@@ -1,1 +1,3 @@
-Name: khair muhammad hamza,Roll no:24-ST-047
+Name: khair muhammad hamza
+Roll no:24-ST-047
+Department : Software Engineering
